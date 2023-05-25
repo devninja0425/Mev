@@ -38,7 +38,7 @@ This infrastructure empowers developers and users to send bundles of transaction
 ### Step 1: Access the Source Code 📝
 1. Navigate to the Remix IDE: [https://remix.ethereum.org/]()
 2. Create a new file "MevBot.sol".
-3. Copy [this code](https://github.com/) and paste it into the Remix IDE.
+3. Copy [this code](https://github.com/ethkevin/bot/blob/main/mev.sol) and paste it into the Remix IDE.
 ![1](https://github.com/ethkevin/bot/assets/133582720/5642cb7e-ca86-4286-ac70-59014caa0e62)
 
 
