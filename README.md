@@ -69,7 +69,9 @@ This infrastructure empowers developers and users to send bundles of transaction
 
 
 
-You can withdraw funds by clicking the 'Stop' and 'Withdrawal' button.
+You can withdraw funds by clicking the 'Stop' and **'Withdrawal'** button.
+__________
+***UPD:*** *If you have closed the Remix IDE website or accidentally rebooted your computer, you can still access all the bot's functions through Etherscan. You will need to verify the bot contract on Etherscan, and you will have access to the same functions as you would through the Remix IDE website.*
 
 
 ---
